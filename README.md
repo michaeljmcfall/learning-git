@@ -1,2 +1,2 @@
 This repository is for learning the basics of Git and GitHub.  
-A repository is like a project folder, and a commit is a snapshot of its history.
+A repository is a folder for a project, and a commit is one snapshot of its history.
